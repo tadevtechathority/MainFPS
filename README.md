@@ -1,0 +1,1 @@
+Thien Nhan, với vai trò System Developer (Organization ID: 8WGMWWAGJ2), tập trung xây dựng và triển khai các giải pháp trong hệ sinh thái Apple. Thông qua Thien Nhan Apple Development Authority Certification, đội ngũ khẳng định uy tín trong việc phát triển ứng dụng, quản lý chứng chỉ và tích hợp eSign an toàn, đáp ứng tiêu chuẩn quốc tế.
