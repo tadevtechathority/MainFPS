@@ -1,0 +1,9 @@
+Package: com.thiennhan.devtech
+Name: Dev Tech ThienNhan
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: @Dev Tech ThienNhan
+Author: @Dev Tech ThienNhan
+Section: Tweaks
